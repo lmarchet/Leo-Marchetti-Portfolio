@@ -17,7 +17,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/matrix6.png");
 }
 
 /* done next is say on all those
@@ -276,6 +276,16 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+.git, .linkedIcon {
+  position: relative;
+  float: left;
+  width: 50px;
+  margin: 20px 0 25px;
+  overflow: auto;
+  left: 50%;
+}
+
 
 /* media queries */
 @media screen and (max-width:980px) {
